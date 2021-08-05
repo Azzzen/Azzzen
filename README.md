@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 My name Is Axel Zenine, aka Azzzen
 
-<!--
-**Azzzen/Azzzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student at Epitech Paris, learning many different branches of developpement.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an **Inmoov** humanoid robot, powered and controlled by arduino controllers
+- 🌱 I’m currently learning python again, and many other things.
+- 🤔 I’m looking for help discovering new frameworks and how to use them
+- ⚡ Fun fact: Having Adhd helps me be a better programmer (i think)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me here:
+[<img align="left" alt="Azzzen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br/><br/>
+
+[linkedin]: https://www.linkedin.com/in/axel-zenine-a5a2b2207/
