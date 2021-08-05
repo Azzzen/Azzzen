@@ -12,3 +12,8 @@
 <br/><br/>
 
 [linkedin]: https://www.linkedin.com/in/axel-zenine-a5a2b2207/
+
+<details>
+    <summary>:zap: GitHub Stats</summary>
+    <img align="left" alt="Azzzen's Github Stats" src="https://github-readme-stats.azzzen.vercel.app/api?username=azzzen&show_icons=true&hide_border=true" />
+</details>
