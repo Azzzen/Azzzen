@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on an **Inmoov** humanoid robot, powered and controlled by arduino controllers
 - 🌱 I’m currently learning python again, and many other things.
 - 🤔 I’m looking for help discovering new frameworks and how to use them
-- ⚡ Fun fact: Having Adhd helps me be a better programmer (i think)
+- ⚡ Fun fact: I speak French :fr: 🇫🇷	 , English, Italian and Norwegian.
 
 ## Reach me here:
 [<img align="left" alt="Azzzen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
