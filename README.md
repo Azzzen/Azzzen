@@ -1,4 +1,4 @@
-### Hi there 👋 My name Is Axel Zenine, aka Azzzen
+### Hi there 👋 My name is Azzzen
 
 ## I'm a student at Epitech Paris, learning many different branches of developpement.
 
